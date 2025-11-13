@@ -1,4 +1,4 @@
-# 🏦 Loan Risk Portal
+# 🏦 Loan Risk Predictor
 
 **AI-powered loan default prediction platform with modern visuals, dynamic UI, and professional-grade backend.**  
 Built using FastAPI, LightGBM, and Streamlit, this project helps financial institutions and individuals assess loan risk with precision and style.
